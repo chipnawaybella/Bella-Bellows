@@ -1,0 +1,442 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.SCAnimation canvas {
+	/*
+	-ms-transform: scale(0.5);
+	-moz-transform: scale(0.5);
+	-webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-ms-transform-origin: 0px 0px;
+	-moz-transform-origin: 0px 0px;
+	-webkit-transform-origin: 0px 0px;
+	transform-origin: 0px 0px;
+	*/
+	pointer-events: none;
+}
+
+
+div#obj354 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: -2px;
+width: 773px;
+height: 1023px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj354_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 773px;
+	height: 1023px;
+}
+div#obj163 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: 0px;
+width: 768px;
+height: 1024px;
+opacity: 0.501;
+z-index: 1;
+display:none;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj163_img {
+	position: absolute;
+	left: 0px;
+	top: 128px;
+	width: 768px;
+	height: 768px;
+	transform-origin: 50% 50%;
+	transform: rotate(0deg);
+	-webkit-transform-origin: 50% 50%;
+	-webkit-transform: rotate(0deg);
+}
+div#obj389 {
+position: absolute;
+overflow: hidden;
+top: 404px;
+left: 135px;
+width: 488px;
+height: 192px;
+opacity: 1;
+z-index: 4;
+display:none;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj389_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 488px;
+	height: 192px;
+}
+
+div#obj396 {
+position: absolute;
+overflow: hidden;
+top: 962px;
+left: 707px;
+width: 35px;
+height: 42px;
+opacity: 1;
+z-index: 5;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+font-family: "Quicksand-500";
+font-size: 24px;
+text-align: center;
+}
+div#obj396_content {
+}
+
+
+
+
+
+audio#obj148 {
+position: absolute;
+overflow: hidden;
+top: 7px;
+left: 9px;
+width: 138px;
+height: 93px;
+opacity: 1;
+z-index: 2;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+
+div#obj73 {
+	position: absolute;
+overflow: hidden;
+top: 273px;
+left: 117px;
+width: 535px;
+height: 421px;
+opacity: 0.8;
+z-index: 3;
+display:block;
+pointer-events: auto;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+	font-family:"Quicksand-500";
+	font-size:24px;
+	text-align:left;
+	border-color: #000000;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	background-color: #FFFFFF;
+}
+div#obj73 h1 {
+	font-size: 1em;
+}
+div#obj73 h1.title {
+  display: block;
+}
+div#obj73 .chapter_label {
+  font-family:"Quicksand-500";
+  font-size:30px; 
+  color: #000000;
+}
+div#obj73 .chapter_number {
+  display: none;
+  text-align:center; 
+  padding-left: 0px; 
+  padding-right: 10px;
+}
+div#obj73 .counter {
+  font-family:"Quicksand-500";
+  font-size:30px; 
+  color: #000000;
+}
+div#obj73 .practice {
+	position: absolute;
+	top: 0px;
+	width: 535px;
+	height: 421px;
+}
+div#obj73 .practicediv{
+	margin: 15px;
+	width: 505px;
+	height: 376px;
+}
+div#obj73 .practice > header{
+	display:none;
+}
+div#obj73 .practicelist{
+	padding:0;
+}
+div#obj73  .multiple-choice-problem{
+	list-style-type: none;
+	visibility: hidden;
+}
+div#obj73  .practicediv .choices{
+	padding:0;
+}
+div#obj73 .practicediv .choices li{
+	margin-left: 60px;
+	margin-right: 60px;
+}
+div#obj73 .practicediv .choices .choice-content {
+	margin-left: 6px;
+}
+/* BOTTONI */
+div#obj73 .quiz-buttons{
+	display: block;
+	position:relative;
+	z-index: 2;
+	bottom: 30px;
+	height: 30px;
+	width: 100%;
+	text-align: center;
+	font-family: "Quicksand-500";
+	font-size: 24px;
+	color: #000000;
+}
+div#obj73 .swiper-container .quiz-buttons{
+	display: inline-block;
+	position: relative;
+	bottom: 0px;
+	margin-top: 70.16667px;
+	text-align: center;
+	height: 30px;
+}
+div#obj73 button.quiz-button {
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffffff 0%, #f2f2f2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffffff 0%,#f2f2f2 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+	border: 1px solid #979797;
+	border-radius: 6px;
+	font-family: "Quicksand-500";
+	font-size: 24px;
+	color: #000000;
+}
+div#obj73 .messaggio-finale{
+	width:80%;
+	margin:0 auto;
+	text-align: center;
+}
+div#obj73 .conteggio-finale{
+	width: 100%;
+	text-align: center;
+	margin-top: 0.8em;
+	font-family: "Quicksand-500";
+	font-size: 24px;
+	color: #000000;
+}
+div#obj73 .conteggio-finale div{
+	width: 22px;
+	text-align: center;
+}
+
+div#obj73 .finale-quiz {
+	display: inline-block;
+	margin-right: 4px;
+	vertical-align: middle;
+}
+div#obj73 .finale-quiz-choice-right{
+	background-image : url("../../images/scquiz-check-right.png");
+	background-size: 22px 22px;
+	background-repeat:  no-repeat;
+	width: 22px;
+	height: 22px;
+}
+div#obj73 .finale-quiz-choice-wrong{
+	background-image : url("../../images/scquiz-check-wrong.png");
+	background-size: 22px 22px;
+	background-repeat:  no-repeat;
+	width: 22px;
+	height: 22px;
+	margin-left: 20px;
+}
+div#obj73 .finale-quiz-choice-missed{
+	background-image : url("../../images/scquiz-check-off.png");
+	background-size: 22px 22px;
+	background-repeat:  no-repeat;
+	width: 22px;
+	height: 22px;
+	margin-left: 20px;
+}
+div#obj73 label.css-label{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+div#obj73 .arrow-left {
+	  background: url(../../images/scquiz-prev.png) no-repeat;
+	  background-size: 50px 50px;
+	  position: absolute;
+	  left: 5px;
+	  top: 50%;
+	  margin-top: -25px;
+	  width: 50px;
+	  height: 50px;
+	  z-index: 2;
+	  display: none;
+}
+div#obj73 .arrow-right {
+	  background: url(../../images/scquiz-next.png) no-repeat;
+	  background-size: 50px 50px;
+	  position: absolute;
+	  right: 5px;
+	  top: 50%;
+	  margin-top: -25px;
+	  width: 50px;
+	  height: 50px;
+	  z-index: 2;
+	  display: none;
+}
+/* CHECKBOX UNCHECKED*/
+div#obj73 input[type=checkbox].css-checkbox + label.css-label {
+	padding-left: 22px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position-x: 0px;
+	background-position-y: 3px;
+	min-height: 30px;
+	line-height: 30px;
+	vertical-align: top;
+	cursor: pointer;
+}
+div#obj73 input[type=radio].css-checkbox + label.css-label {
+	padding-left: 22px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position-x: 0px;
+	background-position-y: 3px;
+	min-height: 30px;
+	line-height: 30px;
+	vertical-align: top;
+	cursor: pointer;
+}
+div#obj73 input[type=checkbox].css-checkbox,
+div#obj73 input[type=radio].css-checkbox{
+	display: none;
+}
+/* esempio di personalizzazione del tipo di elenco*/
+div#obj73 .multiple-choice-problem .choices li{
+  list-style-type:none;
+}
+
+/* CHECKBOX */
+div#obj73 label.css-label.lb-checkbox{
+	background-image : url("../../images/scquiz-check-off.png");
+	background-size: 22px 22px;
+}
+div#obj73 input[type=checkbox].css-checkbox:checked + label.css-label.lb-checkbox{
+	background-image : url("../../images/scquiz-check-on.png");
+	background-size: 22px 22px;
+}
+div#obj73 .quiz-choice-wrong input[type=checkbox].css-checkbox + label.css-label.lb-checkbox{
+	background-image : url("../../images/scquiz-check-wrong.png");
+	background-size: 22px 22px;
+}
+div#obj73 .quiz-choice-right input[type=checkbox].css-checkbox + label.css-label.lb-checkbox {
+	background-image : url("../../images/scquiz-check-right.png");
+	background-size: 22px 22px;
+}
+div#obj73 .quiz-choice-missed input[type=checkbox].css-checkbox + label.css-label.lb-checkbox {
+	background-image : url("../../images/scquiz-check-missed.png");
+	background-size: 22px 22px;
+}
+
+/* RADIO */
+div#obj73 label.css-label.lb-radio{
+	background-image : url("../../images/scquiz-radio-off.png");
+	background-size: 22px 22px;
+}
+div#obj73 input[type=radio].css-checkbox:checked + label.css-label.lb-radio {
+	background-image : url("../../images/scquiz-radio-on.png");
+	background-size: 22px 22px;
+}
+div#obj73 .quiz-choice-wrong input[type=radio].css-checkbox + label.css-label.lb-radio {
+	background-image : url("../../images/scquiz-radio-wrong.png");
+	background-size: 22px 22px;
+}
+div#obj73 .quiz-choice-right input[type=radio].css-checkbox + label.css-label.lb-radio {
+	background-image : url("../../images/scquiz-radio-right.png");
+	background-size: 22px 22px;
+}
+div#obj73 .quiz-choice-missed input[type=radio].css-checkbox + label.css-label.lb-radio {
+	background-image : url("../../images/scquiz-radio-missed.png");
+	background-size: 22px 22px;
+}
+/* FONTS */
+div#obj73 div.question p {
+	font-family: "Quicksand-500";
+	font-size: 30px;
+	color: #000000;
+}
+div#obj73 span.choice-content {
+	font-family: "Quicksand-500";
+	font-size: 24px;
+	color: #000000;
+}
+
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+p, h1, h2, h3, h4, h5, h6 { margin: 0px; padding: 0px; }
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+
+.SCPage {
+background-color: #FFFFFF
+}

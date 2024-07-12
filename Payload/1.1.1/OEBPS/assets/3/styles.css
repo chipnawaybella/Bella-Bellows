@@ -1,0 +1,253 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.SCAnimation canvas {
+	/*
+	-ms-transform: scale(0.5);
+	-moz-transform: scale(0.5);
+	-webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-ms-transform-origin: 0px 0px;
+	-moz-transform-origin: 0px 0px;
+	-webkit-transform-origin: 0px 0px;
+	transform-origin: 0px 0px;
+	*/
+	pointer-events: none;
+}
+
+
+div#obj299 {
+position: absolute;
+overflow: hidden;
+top: 0px;
+left: 0px;
+width: 768px;
+height: 1024px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+img#obj299_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 768px;
+	height: 1024px;
+}
+div#obj301 {
+position: absolute;
+overflow: hidden;
+top: 67px;
+left: 80px;
+width: 285px;
+height: 241px;
+opacity: 1;
+z-index: 1;
+display:block;
+pointer-events: none;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+border-color: #000000;
+border-width: 3px;
+border-style: solid;
+border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+}
+img#obj301_img {
+	position: absolute;
+	left: -3px;
+	top: -3px;
+	width: 285px;
+	height: 241px;
+}
+div#obj478 {
+position: absolute;
+overflow: hidden;
+top: 438px;
+left: 359px;
+width: 339px;
+height: 381px;
+opacity: 1;
+z-index: 7;
+display:block;
+pointer-events: auto;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+border-color: #000000;
+border-width: 3px;
+border-style: solid;
+border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+}
+img#obj478_img {
+	position: absolute;
+	left: -3px;
+	top: -3px;
+	width: 339px;
+	height: 381px;
+}
+
+div#obj303 {
+position: absolute;
+overflow: hidden;
+top: 476px;
+left: 80px;
+width: 260px;
+height: 304px;
+opacity: 1;
+z-index: 2;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+font-family: "Quicksand-500";
+font-size: 24px;
+color: #090909;
+}
+div#obj303_content {
+}
+div#obj394 {
+position: absolute;
+overflow: hidden;
+top: 962px;
+left: 707px;
+width: 35px;
+height: 42px;
+opacity: 1;
+z-index: 3;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+font-family: "Quicksand-500";
+font-size: 24px;
+text-align: center;
+}
+div#obj394_content {
+}
+div#obj472 {
+position: absolute;
+overflow: hidden;
+top: 74px;
+left: 378px;
+width: 310px;
+height: 97px;
+opacity: 1;
+z-index: 4;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+font-family: "Quicksand-500";
+font-size: 24px;
+color: #090909;
+}
+div#obj472_content {
+}
+div#obj474 {
+position: absolute;
+overflow: hidden;
+top: 329px;
+left: 80px;
+width: 634px;
+height: 96px;
+opacity: 1;
+z-index: 5;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+font-family: "Quicksand-500";
+font-size: 24px;
+}
+div#obj474_content {
+}
+div#obj476 {
+position: absolute;
+overflow: hidden;
+top: 832px;
+left: 80px;
+width: 542px;
+height: 106px;
+opacity: 1;
+z-index: 6;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+font-family: "Quicksand-500";
+font-size: 24px;
+}
+div#obj476_content {
+}
+
+
+
+
+
+audio#obj495 {
+position: absolute;
+overflow: hidden;
+top: 5px;
+left: 5px;
+width: 67px;
+height: 70px;
+opacity: 1;
+z-index: 8;
+display:block;
+pointer-events: auto;
+
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
+
+
+
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+p, h1, h2, h3, h4, h5, h6 { margin: 0px; padding: 0px; }
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+
+.SCPage {
+background-color: #FFFFFF
+}

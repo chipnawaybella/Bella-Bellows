@@ -1,0 +1,1 @@
+PubViewer.Document.Settings = {"appIdentifier":"3C71310F8A1C4A62B489B686061A92C3","appName":"Bella Bellows","backgroundColor":"#EFEEE8","facingPagesInLandscape":false,"lockOrientation":false,"restoreLatestPage":true};
