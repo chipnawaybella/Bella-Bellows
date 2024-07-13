@@ -45,8 +45,8 @@ img#obj350_img {
 div#obj63 {
 position: absolute;
 overflow: hidden;
-top: 263px;
-left: 84px;
+top: 286px;
+left: 87px;
 width: 297px;
 height: 396px;
 opacity: 1;
@@ -76,7 +76,7 @@ img#obj63_img {
 div#obj66 {
 position: absolute;
 overflow: hidden;
-top: 88px;
+top: 105px;
 left: 84px;
 width: 617px;
 height: 153px;
@@ -137,10 +137,10 @@ div#obj449_content {
 div#obj451 {
 position: absolute;
 overflow: hidden;
-top: 696px;
+top: 724px;
 left: 84px;
 width: 617px;
-height: 266px;
+height: 203px;
 opacity: 1;
 z-index: 6;
 display:block;
